@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on "Mendix".
-- 🌱 I’m currently learning Low-Code Platforms.
+- 🌱 Learning Low-Code Platforms.
 - 💬 Ask me about Mendix.
 - "C" Leaning C programming.
 <p>
